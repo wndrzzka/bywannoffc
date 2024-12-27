@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/pyrogram/pyrogram">
+    <a href="hhhh">
         <img src="https://docs.pyrogram.org/_static/pyrogram.png" alt="Pyrogram" width="128">
     </a>
     <br>
@@ -65,7 +65,7 @@ If you'd like to support Pyrogram, you can consider:
 ### Installing
 
 ``` bash
-pip3 install git+https://github.com/wndrzzka/pyrogram
+pip3 install git+https://github.com/wndrzzka/bywannoffc
 ```
 
 ### Resources
